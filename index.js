@@ -72,3 +72,6 @@ app.put('/games', (req, res) => {
 app.listen(8080, () =>
     console.log(`Api töötab aadressil: http://localhost:8080`)
 )
+
+
+//yy
